@@ -1,0 +1,54 @@
+@media screen and (max-width:950px) {
+    .navbar{
+        position: relative;
+        margin-top: 5%;
+    }
+    #menu{
+        display: none;
+    }
+    #logo{
+        margin: 0;
+        justify-content: center;
+    }
+    .header{
+        margin-top: 5%;
+        flex-direction: column;
+    }
+    #h2_a{
+        font-size: 18px;
+    }
+    
+    #h2_b{
+        font-size: 55px;
+    }
+    .headline{
+        flex: 100%;
+        text-align: justify;
+    }
+
+    .btn_headline{
+        height: 40px;
+        width: 95%;
+        margin-top: 5% 0 5% 0;
+    }
+    .img-headline{
+        margin-top: 5%;
+        flex: 100%;
+    }
+    .servicos{
+        flex-direction: column;
+    }
+    .card{
+        margin-bottom: 5%;
+    }
+    footer{
+        margin-top: 50px;
+    }
+    .btn-whats{
+        bottom: 10px;
+        right: 5px;
+    }
+    .btn-whats img{
+        width:45px;
+    }
+}
